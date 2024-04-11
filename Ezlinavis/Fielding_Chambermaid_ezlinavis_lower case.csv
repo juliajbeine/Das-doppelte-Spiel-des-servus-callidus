@@ -1,0 +1,81 @@
+source,type,target,weight
+1 Lady,Undirected,2 Lady,2
+1 Lady,Undirected,3 Lady,2
+1 Lady,Undirected,Charlotte,2
+1 Lady,Undirected,Colonel Bluff,2
+1 Lady,Undirected,Goodall,1
+1 Lady,Undirected,Lettice,1
+1 Lady,Undirected,Lord Pride,2
+1 Lady,Undirected,Lord Puff,2
+1 Lady,Undirected,Monsieur le Marquis,2
+1 Lady,Undirected,Valentine,2
+2 Lady,Undirected,3 Lady,2
+2 Lady,Undirected,Charlotte,2
+2 Lady,Undirected,Colonel Bluff,2
+2 Lady,Undirected,Goodall,1
+2 Lady,Undirected,Lettice,1
+2 Lady,Undirected,Lord Pride,2
+2 Lady,Undirected,Lord Puff,2
+2 Lady,Undirected,Monsieur le Marquis,2
+2 Lady,Undirected,Valentine,2
+3 Lady,Undirected,Charlotte,2
+3 Lady,Undirected,Colonel Bluff,2
+3 Lady,Undirected,Goodall,1
+3 Lady,Undirected,Lettice,1
+3 Lady,Undirected,Lord Pride,2
+3 Lady,Undirected,Lord Puff,2
+3 Lady,Undirected,Monsieur le Marquis,2
+3 Lady,Undirected,Valentine,2
+Charlotte,Undirected,Colonel Bluff,2
+Charlotte,Undirected,Goodall,2
+Charlotte,Undirected,Lettice,3
+Charlotte,Undirected,Lord Pride,2
+Charlotte,Undirected,Lord Puff,2
+Charlotte,Undirected,Monsieur le Marquis,2
+Charlotte,Undirected,Mrs. Highman,1
+Charlotte,Undirected,Oldcastle,1
+Charlotte,Undirected,Valentine,5
+Colonel Bluff,Undirected,Constable,1
+Colonel Bluff,Undirected,Goodall,3
+Colonel Bluff,Undirected,Lettice,1
+Colonel Bluff,Undirected,Lord Pride,2
+Colonel Bluff,Undirected,Lord Puff,2
+Colonel Bluff,Undirected,Monsieur le Marquis,4
+Colonel Bluff,Undirected,Slap,1
+Colonel Bluff,Undirected,Valentine,3
+Constable,Undirected,Goodall,2
+Constable,Undirected,Lettice,1
+Constable,Undirected,Monsieur le Marquis,1
+Constable,Undirected,Slap,2
+Goodall,Undirected,Lettice,4
+Goodall,Undirected,Lord Pride,1
+Goodall,Undirected,Lord Puff,1
+Goodall,Undirected,Monsieur le Marquis,3
+Goodall,Undirected,Mrs. Highman,2
+Goodall,Undirected,Oldcastle,1
+Goodall,Undirected,Security,1
+Goodall,Undirected,Slap,2
+Goodall,Undirected,Valentine,3
+Lettice,Undirected,Lord Pride,1
+Lettice,Undirected,Lord Puff,1
+Lettice,Undirected,Monsieur le Marquis,1
+Lettice,Undirected,Mrs. Highman,2
+Lettice,Undirected,Oldcastle,1
+Lettice,Undirected,Rakeit,1
+Lettice,Undirected,Security,1
+Lettice,Undirected,Slap,1
+Lettice,Undirected,Valentine,2
+Lord Pride,Undirected,Lord Puff,3
+Lord Pride,Undirected,Monsieur le Marquis,2
+Lord Pride,Undirected,Valentine,2
+Lord Puff,Undirected,Monsieur le Marquis,2
+Lord Puff,Undirected,Valentine,2
+Monsieur le Marquis,Undirected,Slap,1
+Monsieur le Marquis,Undirected,Valentine,3
+Mrs. Highman,Undirected,Oldcastle,1
+Mrs. Highman,Undirected,Valentine,1
+Oldcastle,Undirected,Valentine,1
+Servant,Undirected,Valentine,1
+Slap,Undirected,Valentine,1
+Trick,Undirected,Valentine,1
+Trusty,Undirected,Valentine,1

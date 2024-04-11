@@ -1,0 +1,95 @@
+source,type,target,weight
+Alcmena,Undirected,Amphitryon,3
+Alcmena,Undirected,Bromia,4
+Alcmena,Undirected,Gripus,2
+Alcmena,Undirected,Guards,1
+Alcmena,Undirected,Jupiter,5
+Alcmena,Undirected,Mercury,4
+Alcmena,Undirected,Musicians,1
+Alcmena,Undirected,New Singers,1
+Alcmena,Undirected,Phaedra,5
+Alcmena,Undirected,Polydas,2
+Alcmena,Undirected,Servant,1
+Alcmena,Undirected,Singers,1
+Alcmena,Undirected,Sosia,3
+Alcmena,Undirected,Tranio,2
+Amphitryon,Undirected,Bromia,2
+Amphitryon,Undirected,Gripus,2
+Amphitryon,Undirected,Guards,1
+Amphitryon,Undirected,Jupiter,3
+Amphitryon,Undirected,Mercury,3
+Amphitryon,Undirected,Musicians,1
+Amphitryon,Undirected,New Singers,1
+Amphitryon,Undirected,Phaedra,3
+Amphitryon,Undirected,Polydas,2
+Amphitryon,Undirected,Servant,1
+Amphitryon,Undirected,Singers,1
+Amphitryon,Undirected,Sosia,3
+Amphitryon,Undirected,Tranio,2
+Bromia,Undirected,Gripus,1
+Bromia,Undirected,Guards,1
+Bromia,Undirected,Jupiter,4
+Bromia,Undirected,Mercury,3
+Bromia,Undirected,Musicians,1
+Bromia,Undirected,Phaedra,4
+Bromia,Undirected,Polydas,1
+Bromia,Undirected,Servant,1
+Bromia,Undirected,Sosia,2
+Bromia,Undirected,Tranio,1
+Gripus,Undirected,Guards,1
+Gripus,Undirected,Jupiter,2
+Gripus,Undirected,Mercury,2
+Gripus,Undirected,New Singers,1
+Gripus,Undirected,Phaedra,2
+Gripus,Undirected,Polydas,2
+Gripus,Undirected,Singers,1
+Gripus,Undirected,Sosia,2
+Gripus,Undirected,Tranio,2
+Guards,Undirected,Jupiter,1
+Guards,Undirected,Mercury,1
+Guards,Undirected,Phaedra,1
+Guards,Undirected,Polydas,1
+Guards,Undirected,Sosia,1
+Guards,Undirected,Tranio,1
+Jupiter,Undirected,Mercury,5
+Jupiter,Undirected,Musicians,1
+Jupiter,Undirected,New Singers,1
+Jupiter,Undirected,Night,1
+Jupiter,Undirected,Phaedra,5
+Jupiter,Undirected,Phoebus,1
+Jupiter,Undirected,Polydas,2
+Jupiter,Undirected,Servant,1
+Jupiter,Undirected,Singers,1
+Jupiter,Undirected,Sosia,3
+Jupiter,Undirected,Tranio,2
+Mercury,Undirected,Musicians,1
+Mercury,Undirected,New Singers,1
+Mercury,Undirected,Night,1
+Mercury,Undirected,Phaedra,4
+Mercury,Undirected,Phoebus,1
+Mercury,Undirected,Polydas,2
+Mercury,Undirected,Servant,1
+Mercury,Undirected,Singers,1
+Mercury,Undirected,Sosia,4
+Mercury,Undirected,Tranio,2
+Musicians,Undirected,Phaedra,1
+Musicians,Undirected,Servant,1
+Musicians,Undirected,Sosia,1
+New Singers,Undirected,Phaedra,1
+New Singers,Undirected,Polydas,1
+New Singers,Undirected,Singers,1
+New Singers,Undirected,Sosia,1
+New Singers,Undirected,Tranio,1
+Night,Undirected,Phoebus,1
+Phaedra,Undirected,Polydas,2
+Phaedra,Undirected,Servant,1
+Phaedra,Undirected,Singers,1
+Phaedra,Undirected,Sosia,3
+Phaedra,Undirected,Tranio,2
+Polydas,Undirected,Singers,1
+Polydas,Undirected,Sosia,2
+Polydas,Undirected,Tranio,2
+Servant,Undirected,Sosia,1
+Singers,Undirected,Sosia,1
+Singers,Undirected,Tranio,1
+Sosia,Undirected,Tranio,2
